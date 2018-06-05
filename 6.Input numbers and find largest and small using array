@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> //very few
 int main()
 {
 	int i,avg,n,j,k,a[100],larg,small;
